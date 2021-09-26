@@ -35,16 +35,16 @@ Every time a row is filled, it should clear up, the entire grid and everything c
 
 Once there is no more room for the new piece to be generated, the game should end.
 
-| Step                       | Procedure     | Expected Results  | Actual Results |
-| ----------------------     |:-------------:| -----------------:| -------------- |
-|  1  | Run Controller       | Press any button display text      | -----------------|
+| Step                       | Procedure     | Expected Results  |
+| ----------------------     |:-------------:| -----------------:|
+|  1  | Run Controller       | Press any button display text     |
 |  3  | Press any key        | Game starts    |                  |
 |  4  | left arrow           | piece moves left|                 |
 |  5  | right arrow          | piece moves right |               |
 |  6  | up arrow             | piece rotates |                   |
 |  7  | down arrow           | piece moves down|                 |
 |  8  | space bar            | piece drops down|                 |
-|  9  | general playtesting  | normal tetris|                     |
-|  10  | win state           | none, until user loses |                |
+|  9  | general playtesting  | normal tetris|                    |
+|  10  | win state           | none, until user loses |          |
 
 
